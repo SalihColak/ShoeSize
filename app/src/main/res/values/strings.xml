@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShoeSize</string>
+    <string name="buttonGroesseInCM">Size to CM</string>
+    <string name="ButtonCmInGroesse">CM to Size</string>
+    <string name="Cm">Foot length in Cm</string>
+    <string name="DeEu">DE/EU-Size</string>
+    <string name="UK">UK-Size</string>
+    <string name="US">US-Size</string>
+    <string name="submit">Submit</string>
+    <string name="eingabefehler">Wrong Input</string>
+    <string name="eineangabe">Please input only one statement</string>
+    <string name="angabe">Please input one statement</string>
+    <string name="inputcm">Input CM: 9cm - 20cm</string>
+    <string name="inputeu">Input EU: 16 - 32</string>
+    <string name="inputuk">Input UK: 0,5 - 14</string>
+    <string name="inputus">Input US: 1 - 14</string>
+</resources>
